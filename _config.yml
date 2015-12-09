@@ -70,5 +70,5 @@ theme: landscape
 deploy:
   type: git
   repo: 
-    github: ssh://github.com/StPhilipNeri/school-web.git
+    github: git@github.com:StPhilipNeri/school-web.git
     branch: gh-pages
