@@ -1,9 +1,10 @@
 # Header
+# the school-web part should not be necessary but is
 menu:
-  Home: /
-  Gallery: /Gallery
-#  Archives: /archives
-rss: /atom.xml
+  Home: /school-web/
+  Gallery: /school-web/Gallery
+#  archives: /archives
+rss: /school-web/atom.xml
 
 # Content
 excerpt_link: Read More

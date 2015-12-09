@@ -1,19 +1,19 @@
 title: Gallery
 ---
 
-{% image fancybox fig-50 Gallery/images/learning-in-school.jpg %}
-{% image fancybox fig-50 Gallery/images/red-skirts.jpg %}
+{% image fancybox fig-50 images/learning-in-school.jpg %}
+{% image fancybox fig-50 images/red-skirts.jpg %}
 
-{% image fancybox /Gallery/images/small-kids-waving.jpg %}
+{% image fancybox images/small-kids-waving.jpg %}
 
-{% image fancybox fig-33 /Gallery/images/behind-desk.jpg %}
-{% image fancybox fig-33 /Gallery/images/building.jpg %}
-{% image fancybox fig-33 /Gallery/images/volleyball.jpg %}
+{% image fancybox fig-33 images/behind-desk.jpg %}
+{% image fancybox fig-33 images/building.jpg %}
+{% image fancybox fig-33 right images/volleyball.jpg %}
 
-{% image fancybox fig-50 /Gallery/images/funny-shirts.jpg %}
-{% image fancybox fig-50 /Gallery/images/class-fun.jpg %}
+{% image fancybox fig-50 images/funny-shirts.jpg %}
+{% image fancybox fig-50 images/class-fun.jpg %}
 
-{% image fancybox fig-33 /Gallery/images/chilling.jpg %}
-{% image fancybox fig-33 /Gallery/images/soccer.jpg %}
-{% image fancybox fig-33 /Gallery/images/beds.jpg %} 
+{% image fancybox fig-33 images/chilling.jpg %}
+{% image fancybox fig-33 images/soccer.jpg %}
+{% image fancybox fig-33 right images/beds.jpg %} 
 
