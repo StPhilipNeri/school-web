@@ -1,8 +1,8 @@
 # Header
 # the school-web part should not be necessary but is
 menu:
-  Home: /school-web/
-  Gallery: /school-web/Gallery
+  Home: /
+  Gallery: /Gallery
 #  archives: /archives
 rss: /school-web/atom.xml
 
