@@ -1,3 +1,8 @@
+title: About Us
+date: none
+skipDate: true
+skipTitleIfFullArticleIsShown: true
+---
 St. Philip Neri Primary School is situated in Joska, approximately 4 km off Kangundo road. His Excellency Michal Mlynar, Slovak ambassador to Kenya, officially opened the school on 14th January 2013. It is a day and boarding school supporting former street children, orphans and vulnerable children by providing free pre school and primary education to children from disadvantaged families. It has a capacity of 450 children including 250 borders. 
 
 The main objective of the school is to provide a **free primary education for the vulnerable and enhance the sense of belonging among the more fortune members of society.**
@@ -23,5 +28,5 @@ Our main partner in Kenya  is St. Kizito Children Centre based in Mihango that f
 The idea of bright and needy program came in the end of 2013 whereby the school decided to expand their sponsorship to bright but needy children in the community. The sponsorship is based on the previous 2 years academic performance and the pupils must continue to score the target grades all throughout the sponsored period. 
 
 ### 3. Free pre school education 
-The pre school education is fully sponsored for each child in order to support the community from low developed area of Joska village and Muthwani area. The pre school system starts from baby class and it’s based on Montessori system.
+The pre school education is fully sponsored for each child in order to support the community from low developed area of Joska village and Muthwani area. The pre school system starts from baby class and it's based on Montessori system.
 
