@@ -6,11 +6,9 @@
   <div class="article-inner">
     <%- partial('post/gallery') %>
     <% if (post.link || post.title){ %>
-      <% if (post.link || (post.excerpt && index && !post.skipTitleIfFullArticleIsShown)){ %> <!-- skip title in some posts -->
         <header class="article-header">
-          <%- partial('post/title', {class_name: 'article-title'}) %>
+          <%- partial('post/title', {class_name: 'article-title', fullArticleIsShown: !index || !post.excerpt}) %>
         </header>
-      <% } %>
     <% } %>
     <div class="article-entry" itemprop="articleBody">
       <% if (post.excerpt && index){ %>
