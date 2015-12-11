@@ -32,8 +32,7 @@ Room dimensions are as follows:
 
 **5.2** The Commission can ask applicants in written to explain the proposal. The explanation may not amend the proposal. Removal of obvious errors in writing and counting is not considered as an amendment.
 
-5.3 If a contract appears to be an extremely low offer in relation to work, the 
-Commission must ask the candidate in written for the details of that part of the proposal which is essential for its price.
+**5.3** If a contract appears to be an extremely low offer in relation to work, the Commission must ask the candidate in written for the details of that part of the proposal which is essential for its price.
 
 ## 6. Evaluation Criteria:
 **6.1** For the evaluation of proposals the procurement organization has chosen the lowest price criterion.
