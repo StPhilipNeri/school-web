@@ -3,6 +3,7 @@
 menu:
   Home: /
   Gallery: /Gallery
+  About Us: /About-Us
 #  archives: /archives
 rss: /school-web/atom.xml
 

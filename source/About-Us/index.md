@@ -1,5 +1,5 @@
 title: About Us
-date: 2015-10-9
+date: none
 skipDate: true
 skipTitleIfFullArticleIsShown: false
 ---
@@ -29,4 +29,5 @@ The idea of bright and needy program came in the end of 2013 whereby the school 
 
 ### 3. Free pre school education 
 The pre school education is fully sponsored for each child in order to support the community from low developed area of Joska village and Muthwani area. The pre school system starts from baby class and it's based on Montessori system.
+
 
